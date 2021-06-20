@@ -19,7 +19,7 @@
   ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/kayit.PNG)
 
 ### Tarih seç
-  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/tarihsec.PNG)
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/tarihsec2.PNG)
 
 ### Seçilmiş tarih
   ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/secilmistarih.PNG)
