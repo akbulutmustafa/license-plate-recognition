@@ -8,15 +8,15 @@
   
 ### Uygulama Açılış Ekranı
 
-  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/data/homepage.PNG)
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/hompage.PNG)
   
 ### Resim Seçme
 
-  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/data/resimsec.PNG)
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/resimsec.PNG)
   
 ### Plaka Okuma, Kayıt
 
-  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/data/kayit.PNG)
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/kayit.PNG)
 
 ### Tarih seç
   ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/tarihsec.PNG)
