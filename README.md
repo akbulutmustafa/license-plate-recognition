@@ -4,16 +4,25 @@
   ve core dosyası içindeki functions.py dosyasında belirtilen, tesseract'ın bulunduğu klasörü bilgisayarınızdaki tesseract dosya yolu ile değiştirmelisiniz.
   Son olarak custom-416.tflite dosyasını https://drive.google.com/file/d/1VJHhuBKdZwAvg67M-kurYUevTK1HoF92/view?usp=sharing adresinden indirip checkpoints klasörü içine atmalısınız.
   
-  yukarıdaki işlemler tamamlandıktan sonra uiFunctions.py dosyasını çalıştırarak programı kullanabilirsiniz
+  yukarıdaki işlemler tamamlandıktan sonra secUiFunctions.py dosyasını çalıştırarak programı kullanabilirsiniz
   
 ### Uygulama Açılış Ekranı
 
-  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku/blob/main/data/Ekran%20resmi2.PNG)
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/data/homepage.PNG)
   
 ### Resim Seçme
 
-  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku/blob/main/data/Ekran%20resmi3.PNG)
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/data/resimsec.PNG)
   
-### Plaka Okuma
+### Plaka Okuma, Kayıt
 
-  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku/blob/main/data/Ekran%20resmi1.PNG)
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/data/kayit.PNG)
+
+### Tarih seç
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/tarihsec.PNG)
+
+### Seçilmiş tarih
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/secilmistarih.PNG)
+
+### Düzenleme
+  ![Alt Text](https://github.com/akbulutmustafa/plaka_oku-otopark/blob/main/data/editdialog.PNG)
