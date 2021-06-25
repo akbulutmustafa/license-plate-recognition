@@ -103,7 +103,7 @@ class myapp(QMainWindow):
         mdb = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="6687m23736+",
+            password="",
             database="cars"
         )
 
@@ -138,7 +138,7 @@ class myapp(QMainWindow):
             mdb = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="6687m23736+",
+                password="",
                 database="cars"
             )
 
@@ -167,7 +167,7 @@ class myapp(QMainWindow):
         mdb = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="6687m23736+",
+            password="",
             database="cars"
         )
 
@@ -187,7 +187,7 @@ class myapp(QMainWindow):
         mdb = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="6687m23736+",
+            password="",
             database="cars"
         )
 
@@ -206,7 +206,7 @@ class myapp(QMainWindow):
         mdb = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="6687m23736+",
+            password="",
             database="cars"
         )
 
@@ -244,7 +244,7 @@ class myapp(QMainWindow):
         mdb = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="6687m23736+",
+            password="",
             database="cars"
         )
 
@@ -283,7 +283,7 @@ class myapp(QMainWindow):
             mdb = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="6687m23736+",
+                password="",
                 database="cars"
             )
 
@@ -310,7 +310,7 @@ class myapp(QMainWindow):
             mdb = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="6687m23736+",
+                password="",
                 database="cars"
             )
 
@@ -337,7 +337,7 @@ class myapp(QMainWindow):
             mdb = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="6687m23736+",
+                password="",
                 database="cars"
             )
 
@@ -383,37 +383,7 @@ class myapp(QMainWindow):
             else:
                 self.loadData()
 
-
-        """dialog = QtWidgets.QDialog()
-        txtName = QtWidgets.QLineEdit(dialog)
-        txtName.setGeometry(QtCore.QRect(160, 40, 121, 20))
-        txtName.setObjectName("txtName")
-        txtSurname = QtWidgets.QLineEdit(dialog)
-        txtSurname.setGeometry(QtCore.QRect(160, 70, 121, 20))
-        txtSurname.setObjectName("txtSurname")
-        txtPlate = QtWidgets.QLineEdit(dialog)
-        txtPlate.setGeometry(QtCore.QRect(160, 100, 121, 20))
-        txtPlate.setObjectName("txtPlate")
-        lblName = QtWidgets.QLabel(dialog)
-        lblName.setGeometry(QtCore.QRect(100, 40, 47, 21))
-        lblName.setObjectName("lblName")
-        lblSurname = QtWidgets.QLabel(dialog)
-        lblSurname.setGeometry(QtCore.QRect(100, 70, 47, 21))
-        lblSurname.setObjectName("lblSurname")
-        lblPlate = QtWidgets.QLabel(dialog)
-        lblPlate.setGeometry(QtCore.QRect(100, 100, 47, 21))
-        lblPlate.setObjectName("lblPlate")
-        lblName.setText("Ad")
-        lblSurname.setText("Soyad")
-        lblPlate.setText("Plaka")
-        btnSubmit = QtWidgets.QPushButton(dialog)
-        btnSubmit.setGeometry(QtCore.QRect(208, 130, 75, 23))
-        btnSubmit.setObjectName("btnSubmit")
-        btnSubmit.setText("Güncelle")
-        dialog.setModal(True)
-        dialog.exec()"""
-
-
+                
 if __name__ == "__main__":
     import sys
 
